@@ -13,17 +13,6 @@
 	<p align="justify">
 		من بسیار پرانرژی هستم و از یادگیری چیزهای جدید در زمینه وب سایت یا برنامه وب لذت می برم. من فردی هستم که مسئولیت کاری که به من محول می شود را می پذیرم و تمام تلاش خود را برای رسیدن به نتیجه مطلوب و جلب رضایت کارفرما یا مشتری خود انجام می دهم. وظایف محوله را تحلیل و بررسی می کنم و سعی می کنم بهترین راه حل را ارائه دهم تا دوباره به صفر بر نگردیم. من از بررسی کد لذت می برم و تمام تلاش خود را می کنم تا از اصول الگوهای طراحی پیروی کنم تا پروژه قابل توسعه باشد.
 	</p>
-	<p align="center">
-		<a style="text-decoration:none" href="https://www.microsoft.com/store/apps/9nhl4nsc67wm">
-			<img src="https://img.shields.io/badge/Microsoft%20Store-Download-orange.svg?style=flat-square" alt="Store link"/>
-		</a>
-		<a style="text-decoration:none">
-			<img src="https://img.shields.io/badge/platform-windows%2010%20%7C%20uwp-yellow.svg?style=flat-square" alt="Platform"/>
-		</a>
-		<a style="text-decoration:none" href="https://discord.gg/VqetCub">
-			<img src="https://img.shields.io/discord/588473626651787274.svg?style=flat-square" alt="Discord"/>
-		</a>
-	</p>
 </div>
 
 ## Projects that exist here
