@@ -14,17 +14,6 @@ English | [Persian](./README.fa-IR.md)
 	<p align="justify">
 		I am very energetic and enjoy learning new things in the web site or web application field. I am a person who accepts the responsibility of the work that is assigned to me and I do my best to achieve the desired result and to gain the satisfaction of my employer or customer. I analyze and review the tasks assigned to me and try to provide the best solution so that we don't return to zero again. I enjoy code reviews and do my best to follow the principles of design patterns to make the project developable.
 	</p>
-	<p align="center">
-		<a style="text-decoration:none" href="https://www.microsoft.com/store/apps/9nhl4nsc67wm">
-			<img src="https://img.shields.io/badge/Microsoft%20Store-Download-orange.svg?style=flat-square" alt="Store link"/>
-		</a>
-		<a style="text-decoration:none">
-			<img src="https://img.shields.io/badge/platform-windows%2010%20%7C%20uwp-yellow.svg?style=flat-square" alt="Platform"/>
-		</a>
-		<a style="text-decoration:none" href="https://discord.gg/VqetCub">
-			<img src="https://img.shields.io/discord/588473626651787274.svg?style=flat-square" alt="Discord"/>
-		</a>
-	</p>
 </div>
 
 ## Projects that exist here
