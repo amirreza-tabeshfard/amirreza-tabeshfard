@@ -15,7 +15,7 @@
 	</p>
 </div>
 
-## Projects that exist here
+## پروژه هایی که در اینجا وجود دارد
 * [AT-NetCore-NotepadPlusPlus](https://github.com/amirreza-tabeshfard/AT-NetCore-NotepadPlusPlus) [ ستاره: 44 ] [ انشعاب: 3 ]
 
 <p align="center">
@@ -25,7 +25,7 @@
   از حمایت مستمر شما متشکرم.
 </p>
 
-## Instant Messaging
+## پیام رسانی فوری
 <div>
     <a style="text-decoration:none;" href="#" target="_blank" rel="noopener">
 			<img src="https://cdn.icon-icons.com/icons2/2858/PNG/512/site_web_network_icon_181647.png" style="width: 50px; heigth: 50px;" />
