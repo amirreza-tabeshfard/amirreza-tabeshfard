@@ -27,19 +27,43 @@
 
 ## پیام رسانی فوری
 <div>
-    <a style="text-decoration:none;" href="#" target="_blank" rel="noopener">
-			<img src="https://cdn.icon-icons.com/icons2/2858/PNG/512/site_web_network_icon_181647.png" style="width: 50px; heigth: 50px;" />
-		</a>
     <a style="text-decoration:none;" href="https://www.instagram.com/amirreza.tabeshfard/" target="_blank" rel="noopener">
-			<img src="https://cdn.icon-icons.com/icons2/2858/PNG/512/instagram_ig_logo_icon_181651.png" style="width: 50px; heigth: 50px;" />
-		</a>
-    <a style="text-decoration:none;" href="https://www.linkedin.com/in/amirreza-tabeshfard/" target="_blank" rel="noopener">
-			<img src="https://cdn.icon-icons.com/icons2/2858/PNG/512/in_linkedin_logo_icon_181650.png" style="width: 50px; heigth: 50px;" />
-		</a>
-    <a style="text-decoration:none;" href="https://join.skype.com/invite/FamxfW2QwJcM" target="_blank" rel="noopener">
-			<img src="https://cdn.icon-icons.com/icons2/2858/PNG/512/skype_logo_icon_181646.png" style="width: 50px; heigth: 50px;" />
-		</a>
-	    <a style="text-decoration:none;" href="#" target="_blank" rel="noopener">
-			<img src="https://cdn.icon-icons.com/icons2/2858/PNG/512/facebook_logo_icon_181652.png" style="width: 50px; heigth: 50px;" />
-		</a>
+	<img src="https://cdn.icon-icons.com/icons2/2858/PNG/512/instagram_ig_logo_icon_181651.png" style="width: 50px; heigth: 50px;" />
+    </a>
+    <a style="text-decoration:none;" href="#" target="_blank" rel="noopener">
+	<img src="https://cdn.icon-icons.com/icons2/2858/PNG/512/whatsapp_logo_icon_181644.png" style="width: 50px; heigth: 50px;" />
+    </a>
+    <a style="text-decoration:none;" href="#" target="_blank" rel="noopener">
+	<img src="https://cdn.icon-icons.com/icons2/2858/PNG/512/facebook_logo_icon_181652.png" style="width: 50px; heigth: 50px;" />
+    </a>
+    <a style="text-decoration:none;" href="#" target="_blank" rel="noopener">
+	<img src="https://cdn.icon-icons.com/icons2/2858/PNG/512/youtube_logo_icon_181643.png" style="width: 50px; heigth: 50px;" />
+    </a>
+    <a style="text-decoration:none;" href="#" target="_blank" rel="noopener">
+	<img src="https://cdn.icon-icons.com/icons2/2858/PNG/512/email_mail_icon_181653.png" style="width: 50px; heigth: 50px;" />
+    </a>
+    <a style="text-decoration:none;" href="#" target="_blank" rel="noopener">
+	<img src="https://cdn.icon-icons.com/icons2/2858/PNG/512/site_web_network_icon_181647.png" style="width: 50px; heigth: 50px;" />
+    </a>
+    <a style="text-decoration:none;" href="#" target="_blank" rel="noopener">
+	<img src="https://cdn.icon-icons.com/icons2/2858/PNG/512/local_placeholder_map_marker_icon_181649.png" style="width: 50px; heigth: 50px;" />
+    </a>
+    <a style="text-decoration:none;" href="#" target="_blank" rel="noopener">
+	<img src="https://cdn.icon-icons.com/icons2/2858/PNG/512/twitter_logo_icon_181645.png" style="width: 50px; heigth: 50px;" />
+    </a>
+    <a style="text-decoration:none;" href="#" target="_blank" rel="noopener">
+	<img src="https://cdn.icon-icons.com/icons2/2858/PNG/512/skype_logo_icon_181646.png" style="width: 50px; heigth: 50px;" />
+    </a>
+    <a style="text-decoration:none;" href="#" target="_blank" rel="noopener">
+	<img src="https://cdn.icon-icons.com/icons2/2858/PNG/512/blog_rss_logo_icon_181654.png" style="width: 50px; heigth: 50px;" />
+    </a>
+    <a style="text-decoration:none;" href="#" target="_blank" rel="noopener">
+	<img src="https://cdn.icon-icons.com/icons2/2858/PNG/512/pinterest_logo_icon_181648.png" style="width: 50px; heigth: 50px;" />
+    </a>
+    <a style="text-decoration:none;" href="#" target="_blank" rel="noopener">
+	<img src="https://cdn.icon-icons.com/icons2/2858/PNG/512/in_linkedin_logo_icon_181650.png" style="width: 50px; heigth: 50px;" />
+    </a>
+    <a style="text-decoration:none;" href="#" target="_blank" rel="noopener">
+	<img src="https://cdn.icon-icons.com/icons2/2858/PNG/512/be_behance_logo_icon_181655.png" style="width: 50px; heigth: 50px;" />
+    </a>
 </div>
