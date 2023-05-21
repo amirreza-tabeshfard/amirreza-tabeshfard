@@ -60,8 +60,8 @@
     <a style="text-decoration:none;" href="#" target="_blank" rel="noopener">
 	<img src="https://cdn.icon-icons.com/icons2/2858/PNG/512/pinterest_logo_icon_181648.png" style="width: 50px; heigth: 50px;" />
     </a>
-    <a style="text-decoration:none;" href="#" target="_blank" rel="noopener">
-	<img src="https://cdn.icon-icons.com/icons2/2858/PNG/512/in_linkedin_logo_icon_181650.png" style="width: 50px; heigth: 50px;" />
+    <a style="text-decoration:none;" href="https://www.linkedin.com/in/amirreza-tabeshfard/" target="_blank" rel="noopener">
+	<img src="https://cdn.icon-icons.com/icons2/2858/PNG/512/in_linkedin_logo_icon_181650.png" style="width: 50px; heigth: 50px;" title="LinkedIn" />
     </a>
     <a style="text-decoration:none;" href="#" target="_blank" rel="noopener">
 	<img src="https://cdn.icon-icons.com/icons2/2858/PNG/512/be_behance_logo_icon_181655.png" style="width: 50px; heigth: 50px;" />
