@@ -52,7 +52,7 @@ English | [Persian](./README.fa-IR.md)
     <a style="text-decoration:none;" href="#" target="_blank" rel="noopener">
 	<img src="https://cdn.icon-icons.com/icons2/2858/PNG/512/twitter_logo_icon_181645.png" style="width: 50px; heigth: 50px;" title="Twitter" />
     </a>
-    <a style="text-decoration:none;" href="#" target="_blank" rel="noopener">
+    <a style="text-decoration:none;" href="https://join.skype.com/invite/FamxfW2QwJcM" target="_blank" rel="noopener">
 	<img src="https://cdn.icon-icons.com/icons2/2858/PNG/512/skype_logo_icon_181646.png" style="width: 50px; heigth: 50px;" title="Skype" />
     </a>
     <a style="text-decoration:none;" href="#" target="_blank" rel="noopener">
