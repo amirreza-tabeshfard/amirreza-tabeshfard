@@ -7,6 +7,7 @@ English | [Persian](./README.fa-IR.md)
 <h1 align="center">
   Amirreza Tabeshfard
 </h1>
+
 <div>
 	<p align="justify">
 		I am currently a web developer with 'ASP .NET Core MVC' and fortunately, due to the open source nature of this technology, its growth rate is extremely high. Regarding the type of projects I am involved in, I learn a new topic every time and this gives me a good feeling.
@@ -25,6 +26,17 @@ English | [Persian](./README.fa-IR.md)
 <p align="center">
   Thank you for your continued support.
 </p>
+
+## Status
+<!-- https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
+<div align="center">
+	<a href="https://github.com/amirreza-tabeshfard/github-readme-stats">
+		<img align="center" src="https://github-readme-stats.vercel.app/api?username=amirreza-tabeshfard&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Anurag's github stats" />
+  	</a>
+	<a href="https://github.com/amirreza-tabeshfard/github-readme-stats">
+ 		<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirreza-tabeshfard&layout=compact&theme=tokyonight&hide_border=true" />
+	</a>
+</div>
 
 ## Instant Messaging
 <div align="center">
