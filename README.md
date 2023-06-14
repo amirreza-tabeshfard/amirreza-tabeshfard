@@ -1,4 +1,4 @@
-English | [Persian](./README.fa-IR.md)
+English | [Persian](./README.fa-IR.md) 
 
 <p align="center">
 	<img class="avatar rounded-2 avatar-user" src="https://avatars.githubusercontent.com/u/29227919?s=400&amp;u=41be4e9f240b912710db8e9004ad888a293077b1&amp;v=4" width="200" height="200" alt="@amirreza-tabeshfard">
