@@ -25,6 +25,17 @@
   از حمایت مستمر شما متشکرم.
 </p>
 
+## وضعیت
+<!-- https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
+<div align="center">
+	<a href="https://github.com/amirreza-tabeshfard/github-readme-stats">
+		<img align="center" src="https://github-readme-stats.vercel.app/api?username=amirreza-tabeshfard&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Anurag's github stats" />
+  	</a>
+	<a href="https://github.com/amirreza-tabeshfard/github-readme-stats">
+ 		<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirreza-tabeshfard&layout=compact&theme=tokyonight&hide_border=true" />
+	</a>
+</div>
+
 ## پیام رسانی فوری
 <div align="center">
     <a style="text-decoration:none;" href="https://www.instagram.com/amirreza.tabeshfard/" target="_blank" rel="noopener">
