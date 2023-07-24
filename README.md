@@ -18,7 +18,7 @@ English | [Persian](./README.fa-IR.md)
 </div>
 
 ## Projects that exist here
-* [AT-NetCore-NotepadPlusPlus](https://github.com/amirreza-tabeshfard/AT-NetCore-NotepadPlusPlus) [ Star: 44 ] [ Fork: 3 ]
+* [AT-NetCore-NotepadPlusPlus](https://github.com/amirreza-tabeshfard/AT-NetCore-NotepadPlusPlus) [ Star: 51 ] [ Fork: 3 ]
 
 <p align="center">
   Please view the project and if you like it, support the project by giving it a star. So that more people can see the project.
