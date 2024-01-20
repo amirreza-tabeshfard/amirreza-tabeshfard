@@ -16,7 +16,7 @@
 </div>
 
 ## پروژه هایی که در اینجا وجود دارد
-* [AT-NetCore-NotepadPlusPlus](https://github.com/amirreza-tabeshfard/AT-NetCore-NotepadPlusPlus) [ ستاره: 51 ] [ انشعاب: 3 ]
+* [AT-NetCore-NotepadPlusPlus](https://github.com/amirreza-tabeshfard/AT-NetCore-NotepadPlusPlus) [ ستاره: 53 ] [ انشعاب: 3 ]
 
 <p align="center">
   لطفا پروژه را ببینید و اگر دوست داشتید با ستاره دادن از پروژه حمایت کنید. تا افراد بیشتری بتوانند پروژه را ببینند.
