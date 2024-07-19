@@ -44,15 +44,6 @@ English | [Persian](./README.fa-IR.md)
 ## Instant Messaging
 <div align="center">
     <!--
-	    <a style="text-decoration:none;" href="https://www.instagram.com/amirreza.tabeshfard" target="_blank" rel="noopener">
-		<img src="https://cdn.icon-icons.com/icons2/2858/PNG/512/instagram_ig_logo_icon_181651.png" style="width: 50px; heigth: 50px;" title="Instagram" />
-	    </a>
-	    <a style="text-decoration:none;" href="https://api.whatsapp.com/send?phone=+989126210946" target="_blank" rel="noopener">
-		<img src="https://cdn.icon-icons.com/icons2/2858/PNG/512/whatsapp_logo_icon_181644.png" style="width: 50px; heigth: 50px;" title="Whatsapp" />
-	    </a>
-	    <a style="text-decoration:none;" href="https://www.facebook.com/Amirreza.Tabeshfard.1367" target="_blank" rel="noopener">
-		<img src="https://cdn.icon-icons.com/icons2/2858/PNG/512/facebook_logo_icon_181652.png" style="width: 50px; heigth: 50px;" title="Facebook" />
-	    </a>
 	    <a style="text-decoration:none;" href="#" target="_blank" rel="noopener">
 		<img src="https://cdn.icon-icons.com/icons2/2858/PNG/512/youtube_logo_icon_181643.png" style="width: 50px; heigth: 50px;" title="Youtube" />
 	    </a>
@@ -68,20 +59,29 @@ English | [Persian](./README.fa-IR.md)
 	    <a style="text-decoration:none;" href="#" target="_blank" rel="noopener">
 		<img src="https://cdn.icon-icons.com/icons2/2858/PNG/512/twitter_logo_icon_181645.png" style="width: 50px; heigth: 50px;" title="Twitter" />
 	    </a>
-	    <a style="text-decoration:none;" href="https://join.skype.com/invite/FamxfW2QwJcM" target="_blank" rel="noopener">
-		<img src="https://cdn.icon-icons.com/icons2/2858/PNG/512/skype_logo_icon_181646.png" style="width: 50px; heigth: 50px;" title="Skype" />
-	    </a>
 	    <a style="text-decoration:none;" href="#" target="_blank" rel="noopener">
 		<img src="https://cdn.icon-icons.com/icons2/2858/PNG/512/blog_rss_logo_icon_181654.png" style="width: 50px; heigth: 50px;" title="Blog (RSS)" />
 	    </a>
 	    <a style="text-decoration:none;" href="#" target="_blank" rel="noopener">
 		<img src="https://cdn.icon-icons.com/icons2/2858/PNG/512/pinterest_logo_icon_181648.png" style="width: 50px; heigth: 50px;" title="Pinterest" />
 	    </a>
-	    <a style="text-decoration:none;" href="https://www.linkedin.com/in/amirreza-tabeshfard/" target="_blank" rel="noopener">
-		<img src="https://cdn.icon-icons.com/icons2/2858/PNG/512/in_linkedin_logo_icon_181650.png" style="width: 50px; heigth: 50px;" title="LinkedIn" />
-	    </a>
 	    <a style="text-decoration:none;" href="#" target="_blank" rel="noopener">
 		<img src="https://cdn.icon-icons.com/icons2/2858/PNG/512/be_behance_logo_icon_181655.png" style="width: 50px; heigth: 50px;" title="Be (behance)" />
 	    </a>
     -->
+    <a style="text-decoration:none;" href="https://www.instagram.com/amirreza.tabeshfard" target="_blank" rel="noopener">
+	<img src="https://cdn.icon-icons.com/icons2/2858/PNG/512/instagram_ig_logo_icon_181651.png" style="width: 50px; heigth: 50px;" title="Instagram" />
+    </a>
+    <a style="text-decoration:none;" href="https://api.whatsapp.com/send?phone=+989126210946" target="_blank" rel="noopener">
+	<img src="https://cdn.icon-icons.com/icons2/2858/PNG/512/whatsapp_logo_icon_181644.png" style="width: 50px; heigth: 50px;" title="Whatsapp" />
+    </a>
+    <a style="text-decoration:none;" href="https://www.facebook.com/Amirreza.Tabeshfard.1367" target="_blank" rel="noopener">
+	<img src="https://cdn.icon-icons.com/icons2/2858/PNG/512/facebook_logo_icon_181652.png" style="width: 50px; heigth: 50px;" title="Facebook" />
+    </a>
+    <a style="text-decoration:none;" href="https://join.skype.com/invite/FamxfW2QwJcM" target="_blank" rel="noopener">
+	<img src="https://cdn.icon-icons.com/icons2/2858/PNG/512/skype_logo_icon_181646.png" style="width: 50px; heigth: 50px;" title="Skype" />
+    </a>
+    <a style="text-decoration:none;" href="https://www.linkedin.com/in/amirreza-tabeshfard/" target="_blank" rel="noopener">
+	<img src="https://cdn.icon-icons.com/icons2/2858/PNG/512/in_linkedin_logo_icon_181650.png" style="width: 50px; heigth: 50px;" title="LinkedIn" />
+    </a>
 </div>
