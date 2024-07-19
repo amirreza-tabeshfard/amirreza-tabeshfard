@@ -69,7 +69,7 @@ English | [Persian](./README.fa-IR.md)
 		<img src="https://cdn.icon-icons.com/icons2/2858/PNG/512/be_behance_logo_icon_181655.png" style="width: 50px; heigth: 50px;" title="Be (behance)" />
 	    </a>
     -->
-    <a style="text-decoration:none;" href="https://www.instagram.com/amirreza.tabeshfard" target="_blank" rel="noopener">
+    <a style="text-decoration:none;" href="https://www.instagram.com/amirreza.tabeshfard" target="_blank">
 	<img src="https://cdn.icon-icons.com/icons2/2858/PNG/512/instagram_ig_logo_icon_181651.png" style="width: 50px; heigth: 50px;" title="Instagram" />
     </a>
     |
