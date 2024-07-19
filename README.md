@@ -72,17 +72,16 @@ English | [Persian](./README.fa-IR.md)
     <a style="text-decoration:none;" href="https://www.instagram.com/amirreza.tabeshfard" target="_blank">
 	<img src="https://cdn.icon-icons.com/icons2/2858/PNG/512/instagram_ig_logo_icon_181651.png" style="width: 50px; heigth: 50px;" title="Instagram" />
     </a>
-    |
-    <a style="text-decoration:none;" href="https://api.whatsapp.com/send?phone=+989126210946" target="_blank" rel="noopener">
+    <a style="text-decoration:none;" href="https://api.whatsapp.com/send?phone=+989126210946" target="_blank">
 	<img src="https://cdn.icon-icons.com/icons2/2858/PNG/512/whatsapp_logo_icon_181644.png" style="width: 50px; heigth: 50px;" title="Whatsapp" />
     </a>
-    <a style="text-decoration:none;" href="https://www.facebook.com/Amirreza.Tabeshfard.1367" target="_blank" rel="noopener">
+    <a style="text-decoration:none;" href="https://www.facebook.com/Amirreza.Tabeshfard.1367" target="_blank">
 	<img src="https://cdn.icon-icons.com/icons2/2858/PNG/512/facebook_logo_icon_181652.png" style="width: 50px; heigth: 50px;" title="Facebook" />
     </a>
-    <a style="text-decoration:none;" href="https://join.skype.com/invite/FamxfW2QwJcM" target="_blank" rel="noopener">
+    <a style="text-decoration:none;" href="https://join.skype.com/invite/FamxfW2QwJcM" target="_blank">
 	<img src="https://cdn.icon-icons.com/icons2/2858/PNG/512/skype_logo_icon_181646.png" style="width: 50px; heigth: 50px;" title="Skype" />
     </a>
-    <a style="text-decoration:none;" href="https://www.linkedin.com/in/amirreza-tabeshfard/" target="_blank" rel="noopener">
+    <a style="text-decoration:none;" href="https://www.linkedin.com/in/amirreza-tabeshfard/" target="_blank">
 	<img src="https://cdn.icon-icons.com/icons2/2858/PNG/512/in_linkedin_logo_icon_181650.png" style="width: 50px; heigth: 50px;" title="LinkedIn" />
     </a>
 </div>
